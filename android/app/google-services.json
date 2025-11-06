@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "498510086747",
+    "project_id": "batov-firebase-notes",
+    "storage_bucket": "batov-firebase-notes.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498510086747:android:37129914223a0c2d13b57e",
+        "android_client_info": {
+          "package_name": "com.example.firebase_notes_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZcPcO3KSiFm6Bp5d0_uacKbnFzkzOhHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
